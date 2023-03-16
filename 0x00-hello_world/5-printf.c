@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function
- * Return: 0 when seccessfull
+ * main - main function
+ * Return: 0 when seccessful
  */
 
 int main(void)
