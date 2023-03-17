@@ -6,7 +6,7 @@
 /**
  * main -main function
  *
- * Return: always 0
+ * Return: Always (Success)
  */
 int main(void)
 {
